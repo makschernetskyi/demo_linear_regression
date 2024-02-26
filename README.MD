@@ -6,4 +6,4 @@ and clicking +. To remove the point u added the last click -.
 When you enter 3 or more points, the regression line will be displayed. enjoy :)
 
 ## demo
-[regression](./media/regression.png)
+![regression](./media/regression.png)
